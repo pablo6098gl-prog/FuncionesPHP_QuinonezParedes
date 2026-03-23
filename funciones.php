@@ -144,5 +144,12 @@ time();
 
 //devuelve el unix timestamp actual o todos los segundos que han pasado desde el 1 de enero de 1970
 
+//26. strotime()
+
+strtotime("25 Diciembre 2026");
+
+//27. file_get_contents()
+
+
 
 
