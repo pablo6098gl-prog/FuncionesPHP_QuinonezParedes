@@ -138,5 +138,11 @@ date( "");
 
 //formatea una fecha
 
+//25. time()
+
+time();
+
+//devuelve el unix timestamp actual o todos los segundos que han pasado desde el 1 de enero de 1970
+
 
 
