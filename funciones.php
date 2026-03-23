@@ -160,3 +160,11 @@ file_put_contents( "archivo.txt" , "hola mundo") ;
 
 //escribe contenido en un archovo seleccionado
 
+//29. json_encode()
+
+json_encode($numeros);
+
+//convierte un array en un objeto JSON
+
+//30. json_decode()
+
