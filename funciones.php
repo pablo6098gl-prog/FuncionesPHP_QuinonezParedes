@@ -61,3 +61,15 @@ round(132.55);
 
 //redondea un numero decimal
 
+//12. ceil()
+
+ceil(143.88);
+
+//redondea hacia arriba
+
+//13. floor()
+
+floor(143.88);
+
+//redondea hacia abajo
+
