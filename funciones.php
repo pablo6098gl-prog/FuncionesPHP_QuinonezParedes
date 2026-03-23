@@ -85,3 +85,11 @@ sqrt(54);
 
 //calcula la raiz cuadrada de un numero
 
+// 15. count()
+
+count( $numeros );
+
+//cuanta la cantidad de elementos con los que cuenta un array
+
+
+
