@@ -79,3 +79,9 @@ rand(0,100000);
 
 //genera un numero aleatorio con los parametros que se le piden
 
+// 14. sqrt()
+
+sqrt(54);
+
+//calcula la raiz cuadrada de un numero
+
