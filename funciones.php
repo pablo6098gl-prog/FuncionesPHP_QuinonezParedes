@@ -97,4 +97,11 @@ array_push($numeros, 54);
 
 //agrega un elemento al final del array
 
+//17. array_pop()
+
+array_pop($numeros);
+
+//elimina el ultimo elemento que tiene un array
+
+
 
