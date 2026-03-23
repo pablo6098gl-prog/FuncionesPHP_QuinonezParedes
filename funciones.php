@@ -150,6 +150,8 @@ strtotime("25 Diciembre 2026");
 
 //27. file_get_contents()
 
+file_get_contents("") ;
 
+//lee el contenido de algun archivo 
 
 
