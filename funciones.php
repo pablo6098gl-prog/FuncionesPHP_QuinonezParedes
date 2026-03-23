@@ -126,5 +126,11 @@ array_keys($numeros, 1);
 
 //retorna todas las claves osea todos los valores que contengan lo que se pide que busque
 
-//23. 
+//23. array_values ()
+
+array_values($numeros);
+
+//retorna todos los valores que contiene un array
+
+
 
