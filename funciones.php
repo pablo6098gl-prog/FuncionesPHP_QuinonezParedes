@@ -55,3 +55,9 @@ abs(134.66);
 
 //retorna el valor absoluto
 
+//11. round()
+
+round(132.55);
+
+//redondea un numero decimal
+
