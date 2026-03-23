@@ -91,5 +91,10 @@ count( $numeros );
 
 //cuanta la cantidad de elementos con los que cuenta un array
 
+// 16. array_push()
+
+array_push($numeros, 54);
+
+//agrega un elemento al final del array
 
 
