@@ -120,4 +120,11 @@ sort($numeros);
 
 //ordena los elementos de menor a mayor
 
+//22. array_keys()
+
+array_keys($numeros, 1);
+
+//retorna todas las claves osea todos los valores que contengan lo que se pide que busque
+
+//23. 
 
