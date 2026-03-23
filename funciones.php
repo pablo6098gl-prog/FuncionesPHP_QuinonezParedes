@@ -80,32 +80,44 @@ rand(0,100000);
 
 //genera un numero aleatorio con los parametros que se le piden
 
-// 14. sqrt()
+// 15. sqrt()
 
 sqrt(54);
 
 //calcula la raiz cuadrada de un numero
 
-// 15. count()
+// 16. count()
 
 count( $numeros );
 
 //cuanta la cantidad de elementos con los que cuenta un array
 
-// 16. array_push()
+// 17. array_push()
 
 array_push($numeros, 54);
 
 //agrega un elemento al final del array
 
-//17. array_pop()
+//18. array_pop()
 
 array_pop($numeros);
 
 //elimina el ultimo elemento que tiene un array
 
-//18. array_merge()
+//19. array_merge()
 
 array_merge($frase, $numeros);
+
+//20. In_array()
+
+in_array("34", $numeros);
+
+//verifica si un valor existe en un array
+
+//21. sort()
+
+sort($numeros);
+
+//ordena los elementos de menor a mayor
 
 
