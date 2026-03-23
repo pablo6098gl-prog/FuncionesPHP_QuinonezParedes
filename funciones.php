@@ -53,7 +53,7 @@ implode( "numeros, ", $numeros );
 
 abs(134.66);
 
-//retorna el valor absoluto
+//retorna el valor absoluto 
 
 //11. round()
 
@@ -72,4 +72,10 @@ ceil(143.88);
 floor(143.88);
 
 //redondea hacia abajo
+
+//14. rand()
+
+rand(0,100000);
+
+//genera un numero aleatorio con los parametros que se le piden
 
