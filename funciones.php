@@ -154,4 +154,9 @@ file_get_contents("") ;
 
 //lee el contenido de algun archivo 
 
+//28. file_put_contents()
+
+file_put_contents( "archivo.txt" , "hola mundo") ;
+
+//escribe contenido en un archovo seleccionado
 
