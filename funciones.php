@@ -132,5 +132,11 @@ array_values($numeros);
 
 //retorna todos los valores que contiene un array
 
+// 24. date()
+
+date( "");
+
+//formatea una fecha
+
 
 
