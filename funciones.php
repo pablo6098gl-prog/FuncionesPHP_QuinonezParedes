@@ -171,7 +171,3 @@ json_encode($numeros);
 json_decode($frase[0]); 
 
 //convierte un archivo en un JSON a objeto/array de PHP
-
-
-
-echo $var1;
