@@ -6,17 +6,17 @@ $frase=["        Era_Un_Paracaidista_Que_Nunca_El_Miedo_Domino        "];
 
 //01. strlen()
 
-strlen($frase[]);
+strlen($frase[0]);
 //Retorna la longitud de una cadena de texto qu este dentro del array
 
 //02. strtoloer()
 
-strtolower($frase[]);
+strtolower($frase[0]);
 //Convierte texto a minúsculas 
 
 //03. strtoupper()
 
-strtoupper($frase[]);
+strtoupper($frase[0]);
 //Convierte texto a mayúsculas
 
 //04. replace()
@@ -26,12 +26,12 @@ str_replace( "_"," ",$frase);
 
 //05. substr()
 
-substr( $frase[], "0", "18" );
+substr( $frase[0], "0", "18" );
 //Extrae una fragmento del array
 
 //06. strpos()
 
-strpos($frase[], "Que" );
+strpos($frase[0], "Que" );
 //Busca la posición de un texto dentro de otro
 
 //07. trim()
@@ -42,7 +42,7 @@ trim($frase[0]);
 
 //08. explode()
 
-explode("---", $numeros[], 3);
+explode("---", $numeros[0], 3);
 //Divide una cadena en un array
 
 //09. implode()
@@ -168,6 +168,10 @@ json_encode($numeros);
 
 //30. json_decode()
 
-json_decode($frase[]); 
+json_decode($frase[0]); 
 
 //convierte un archivo en un JSON a objeto/array de PHP
+
+
+
+echo $var1;
