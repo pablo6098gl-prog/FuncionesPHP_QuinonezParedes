@@ -168,3 +168,6 @@ json_encode($numeros);
 
 //30. json_decode()
 
+json_decode($frase[]); 
+
+//convierte un archivo en un JSON a objeto/array de PHP
